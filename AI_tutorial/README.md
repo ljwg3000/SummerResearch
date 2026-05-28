@@ -1,0 +1,6 @@
+# 2026 Summer Research Program
+## Artificial Intelligence for Engineering and Industry
+### Instructor: Jiho Lee, Ph.D.
+### Email: jiho.lee@unt.edu
+
+Tutorial starts from here [[Tutorial index]](https://colab.research.google.com/github/ljwg3000/SummerResearch/blob/main/Tutorial_index.ipynb)
