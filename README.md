@@ -3,4 +3,4 @@
 ### Instructor: Jiho Lee, Ph.D. (UNT)
 ### Email: jiho.lee@unt.edu
 
-Tutorial starts from here [[Tutorial index]](https://colab.research.google.com/github/ljwg3000/SummerResearch/blob/main/Tutorial_index.ipynb)
+Tutorial starts from here [[Tutorial index]](https://colab.research.google.com/github/ljwg3000/SummerResearch/blob/master/Tutorial_index.ipynb)
